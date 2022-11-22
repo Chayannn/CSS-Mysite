@@ -8,10 +8,12 @@ h1 {
   font-size: 5.625rem;
   padding-top: 70px;
   font-family: "Sacramento", cursive;
+  color: #66BFBF;
 }
 .head {
   font-family: "Montserrat", sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
+  color: #66BFBF;
 }
 h3 {
   font-family: "Montserrat", sans-serif;
